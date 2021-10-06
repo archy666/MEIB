@@ -1,2 +1,2 @@
-# MEMVIB
-Multiview information bottlenect based on Matrix Entroy 
+# MEIB
+Code for papaer "Multi-View Information Bottleneck without Variational Approximation"
